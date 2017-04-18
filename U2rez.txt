@@ -1,0 +1,3 @@
+pasiektas tikslas   4 4 4 3 3 5
+sekos pabaiga       4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 15
+sekos pabaiga       4 1
